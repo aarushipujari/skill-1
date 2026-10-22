@@ -210,3 +210,7 @@ a:focus-visible {
         flex-basis: 100%;
     }
 }
+a:focus-visible {
+    outline: 3px solid #A3B18A;
+    outline-offset: 4px;
+}
